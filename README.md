@@ -1,7 +1,7 @@
-Py Simple HTTP Server
+Recourse
 =====================
 
-Simple HTTP Server with socket programming with Python 3.
+Recourse Simple HTTP Server with socket programming with Python 3.
 
 ## Requirements
  - Python 3
